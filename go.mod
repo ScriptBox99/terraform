@@ -138,7 +138,7 @@ require (
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.232
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.0.233
-	github.com/tencentyun/cos-go-sdk-v5 v0.7.29
+	github.com/tencentyun/cos-go-sdk-v5 v0.7.32
 	github.com/tombuildsstuff/giovanni v0.15.1
 	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/vmihailenco/msgpack/v4 v4.3.12 // indirect

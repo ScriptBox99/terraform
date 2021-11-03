@@ -618,8 +618,8 @@ github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.232/go.mod 
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/kms v1.0.194/go.mod h1:yrBKWhChnDqNz1xuXdSbWXG56XawEq0G5j1lg4VwBD4=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.0.233 h1:5Tbi+jyZ2MojC6GK8V6hchwtnkP2IuENUTqSisbYOlA=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.0.233/go.mod h1:sX14+NSvMjOhNFaMtP2aDy6Bss8PyFXij21gpY6+DAs=
-github.com/tencentyun/cos-go-sdk-v5 v0.7.29 h1:uwRBzc70Wgtc5iQQCowqecfRT0OpCXUOZzodZHOOEDs=
-github.com/tencentyun/cos-go-sdk-v5 v0.7.29/go.mod h1:4E4+bQ2gBVJcgEC9Cufwylio4mXOct2iu05WjgEBx1o=
+github.com/tencentyun/cos-go-sdk-v5 v0.7.32 h1:yJygxGPLQlsCyKCTbppoGIFdAP42ESNaUaWstONS3vE=
+github.com/tencentyun/cos-go-sdk-v5 v0.7.32/go.mod h1:4E4+bQ2gBVJcgEC9Cufwylio4mXOct2iu05WjgEBx1o=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20200427203606-3cfed13b9966 h1:j6JEOq5QWFker+d7mFQYOhjTZonQ7YkLTHm56dbn+yM=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20200427203606-3cfed13b9966/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
 github.com/tombuildsstuff/giovanni v0.15.1 h1:CVRaLOJ7C/eercCrKIsarfJ4SZoGMdBL9Q2deFDUXco=
